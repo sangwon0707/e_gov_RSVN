@@ -36,7 +36,7 @@
 - Spring 기반의 전자정부프레임워크 4.1
 
 ### 데이터베이스
-- MySQL 또는 Oracle
+- MySQL
 
 ### API 통신
 - 공공 데이터 포털에서 제공하는 RESTful API 활용
